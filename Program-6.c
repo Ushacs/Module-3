@@ -1,9 +1,21 @@
+/*Instruction: int solveMeFirst(int a, int b); 
+where,
+a is the first integer input.
+b is the second integer input
+Return values
+sum of the above two integers
+Sample Input
+a = 2
+b = 3
+Sample Output
+5*/
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
 int solveMeFirst(int a, int b) {
-    // Hint: Type return a+b; below
+    // Hint:sum and return value
 }
 int main() {
     int num1,num2;
