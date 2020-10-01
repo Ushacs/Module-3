@@ -4,7 +4,7 @@ one needs to be careful to define an exit condition from the function, otherwise
 To prevent infinite recursion,  statement (or similar approach) can be used where one branch makes the recursive call and other doesn't.
 Input Format
 •	The first line contains a single integer, .
-•	The next line contains 3 space-separated integers, , , and .
+•	The next line contains 3 space-separated integers, , , and.
 Output Format
 Print the nth term of the series, .
 Sample Input 
