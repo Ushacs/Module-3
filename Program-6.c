@@ -16,6 +16,7 @@ Sample Output
 #include <stdlib.h>
 int solveMeFirst(int a, int b) {
     // Hint:sum and return value
+    
 }
 int main() {
     int num1,num2;
