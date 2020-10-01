@@ -1,6 +1,6 @@
 # <h1> Module-3 = Strings & Functions</h1>
   <h2>In this excercises, student will learn about strings in C programming and learn to declare them, initialize them and use them for various I/O operations with the help of examples and student will be introduced to functions (both user-defined and standard library functions) in C programming. Also, they'll will learn why functions are used in programming <h2>
-<ol>
+<ul>
    <li> <h4>Program-1</h4></li>
        Fill in the missing code in the below sample code which copies a given string into another string.</br>
   <li> <h4>Program-2</h4></li>
