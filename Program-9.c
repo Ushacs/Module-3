@@ -11,6 +11,7 @@ void main() {
 	printf("Enter n value : ");
 	scanf("%d", &n);
 	read( ); // Write the arguments in the function call
+	
 	display( ); // Write the arguments in the function call
 }
 void read( ) { // Write the arguments in the function definition
