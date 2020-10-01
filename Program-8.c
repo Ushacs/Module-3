@@ -20,15 +20,15 @@ void main() {
 	printf("division of two values = %d\n", div(a, b));
 }
 sum( ) { // Correct the code
-	return ; // Correct the code
+	return ; 
 }
 sub( ) { // Correct the code
-	return ; // Correct the code
+	return ;
 }
 mul( ) { // Correct the code
-	return ; // Correct the code
+	return ; 
 }
 div( ) { // Correct the code
-	return ; // Correct the code
+	return ; 
 }
 
