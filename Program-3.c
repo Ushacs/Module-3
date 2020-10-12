@@ -12,7 +12,7 @@
 //Number of lowercase Letters = 9
 
 #include<stdio.h>
-void main() {
+int main() {
 	int upper_count = 0, lower_count = 0;
 	char ch[80];
 	int i;
@@ -33,5 +33,6 @@ void main() {
 	}
 	printf("Number of uppercase letters = %d\n",  );
 	printf("Number of lowercase Letters = %d\n",  );
+	return 0;
 }
 
