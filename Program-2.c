@@ -11,7 +11,7 @@
 //The concatenated  string = Nithinkumar
 
 #include <stdio.h>
-void main() {
+int main() {
 	char a[20], b[20], c[20];
 	int i, j;
 	printf("Enter the first string : ");
@@ -29,4 +29,5 @@ void main() {
 	}
 	c[i] = ;                                               //Complete the statement
 	printf("The concatenated string = %s\n", c);
+	return 0;
 }
