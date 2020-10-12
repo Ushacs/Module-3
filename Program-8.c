@@ -10,7 +10,7 @@ int sum(int, int);
 int sub(int, int);
 int mul(int, int);
 int div(int, int);
-void main() {
+int main() {
 	int a, b;
 	printf("Enter two values : ");
 	scanf("%d%d", &a, &b);
@@ -18,6 +18,7 @@ void main() {
 	printf("Subtraction of two values = %d\n", sub(a, b));
 	printf("multiplication of two values = %d\n", mul(a, b));
 	printf("division of two values = %d\n", div(a, b));
+	return 0;
 }
 sum( ) { // Correct the code
 	return ; 
