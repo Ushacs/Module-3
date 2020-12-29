@@ -9,7 +9,8 @@
 //The copied String-2 = Nithin
 
 #include <stdio.h>
-int main() {
+int main() 
+{
 	char str1[50], str2[50];
 	int i;
 	printf("Enter a string-1: ");
